@@ -37,15 +37,15 @@ We provide three examples to the questions provided:
 
 Question: May you summarize the EU AI Act?
 
-Answer: The EU AI Act is a landmark piece of legislation that seeks to create a comprehensive legal framework for the regulation of AI systems across the EU. It is intended to ensure the safety of AI systems on the EU market and provide legal certainty for investments and innovation in AI, while minimizing associated risks to consumers as well as compliance cost for providers. The EU AI Act prominently features a risk-based approach, defining four different risk classes, each of which covering different use cases of AI systems. It also includes provisions to support AI innovation in the EU and promote the European approach to tech regulation on the world stage.
+Answer: The EU AI Act is a landmark piece of legislation that seeks to create a comprehensive legal framework for the regulation of AI systems across the EU. It is intended to ensure the safety of AI systems on the EU market and provide legal certainty for investments and innovation in AI, while minimizing associated risks to consumers as well as compliance cost for providers. The EU AI Act prominently features a risk-based approach, defining four different risk classes, each of which covering different use cases of AI systems. It also includes provisions to support AI innovation in the EU and promote an ethical, safe, and trustworthy approach to AI.
 
 <p align="center">
 <img src="./Img/May you summarize the EU AI Act.png" alt="drawing" align="center" width="900"/>
 </p>
 
-Question: Why do we need to regulate the use of AI?
+Question: Why do we need to regulate the use of Artificial Intelligence?
 
-Answer: The purpose of this Regulation is to improve the functioning of the internal market by laying down a uniform legal framework in particular for the development, marketing and use of artificial intelligence in conformity with Union values. This Regulation pursues a number of overriding reasons of public interest, such as a high level of protection of health, safety and fundamental rights, and it ensures the free movement of AI-based goods and services cross-border, thus preventing Member States from imposing restrictions on the development, marketing and use of AI systems, unless explicitly authorised by this Regulation.
+Answer: The EU's AI Act is the first ever law on artificial intelligence, a regulatory framework that aims to make sure AI systems are safe, and that they respect the law and the EU's fundamental rights and values. It addresses risks to health, safety and fundamental rights, and also protects democracy, rule of law and the environment.
 
 <p align="center">
 <img src="./Img/Why do we need to regulate the use of AI.png" alt="drawing" align="center" width="900"/>
