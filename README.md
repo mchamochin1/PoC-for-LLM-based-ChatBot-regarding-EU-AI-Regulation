@@ -35,25 +35,25 @@ We use the following three components:
 # Screen shots
 We provide three examples to the questions provided:
 
-Question: May you summarize the EU AI Act?
+**Question**: May you summarize the EU AI Act?
 
-Answer: The EU AI Act is a landmark piece of legislation that seeks to create a comprehensive legal framework for the regulation of AI systems across the EU. It is intended to ensure the safety of AI systems on the EU market and provide legal certainty for investments and innovation in AI, while minimizing associated risks to consumers as well as compliance cost for providers. The EU AI Act prominently features a risk-based approach, defining four different risk classes, each of which covering different use cases of AI systems. It also includes provisions to support AI innovation in the EU and promote an ethical, safe, and trustworthy approach to AI.
+**Answer**: The EU AI Act is a landmark piece of legislation that seeks to create a comprehensive legal framework for the regulation of AI systems across the EU. It is intended to ensure the safety of AI systems on the EU market and provide legal certainty for investments and innovation in AI, while minimizing associated risks to consumers as well as compliance cost for providers. The EU AI Act prominently features a risk-based approach, defining four different risk classes, each of which covering different use cases of AI systems. It also includes provisions to support AI innovation in the EU and promote an ethical, safe, and trustworthy approach to AI.
 
 <p align="center">
 <img src="./Img/May you summarize the EU AI Act.png" alt="drawing" align="center" width="900"/>
 </p>
 
-Question: Why do we need to regulate the use of Artificial Intelligence?
+**Question**: Why do we need to regulate the use of Artificial Intelligence?
 
-Answer: The EU's AI Act is the first ever law on artificial intelligence, a regulatory framework that aims to make sure AI systems are safe, and that they respect the law and the EU's fundamental rights and values. It addresses risks to health, safety and fundamental rights, and also protects democracy, rule of law and the environment.
+**Answer**: The EU's AI Act is the first ever law on artificial intelligence, a regulatory framework that aims to make sure AI systems are safe, and that they respect the law and the EU's fundamental rights and values. It addresses risks to health, safety and fundamental rights, and also protects democracy, rule of law and the environment.
 
 <p align="center">
 <img src="./Img/Why do we need to regulate the use of AI.png" alt="drawing" align="center" width="900"/>
 </p>
 
-Question: What are the AI risk categories in EU law?
+**Question**: What are the AI risk categories in EU law?
 
-Answer: The EU AI Act categorises AI systems into four different risk classes, from Unacceptable (which are banned entirely) to High Risk (which are subject to specific obligations on the providers and deployers). The EU wants to ensure the safety of AI systems on the EU market and promote an ethical, safe, and trustworthy approach to AI.
+**Answer**: The EU AI Act categorises AI systems into four different risk classes, from Unacceptable (which are banned entirely) to High Risk (which are subject to specific obligations on the providers and deployers). The EU wants to ensure the safety of AI systems on the EU market and promote an ethical, safe, and trustworthy approach to AI.
 
 <p align="center">
 <img src="./Img/What are the AI risk categories in EU law.png" alt="drawing" align="center" width="900"/>
