@@ -32,6 +32,10 @@ We use the following three components:
 * An **"data service"**: this service will take the output from the intent service and retrieve the correct information. This means our data will have already been prepared with embeddings and stored in the vectorial database, and then made it available to restore from the database with this service. Thus, we compare the embeddings between our data and the user’s query. The embeddings is generated with the “text-embedding-ada-002” model from OpenAI, and they are stored then in a vector database. The data service is easy to do with LangChain and embeddings.
 * A **"response service"**: this service will take the output of the data service and generate from it an answer to the user’s question. We again use the "text-davinci-003" OpenAI model to generate the answer.
 
+* <p align="center">
+<img src="./Img/Components.png" alt="drawing" align="center" width="900"/>
+</p>
+
 # Screenshots
 Three examples demonstrate our approach:
 
