@@ -45,15 +45,15 @@ Three examples demonstrate our approach:
 * Detailing AI risk categories in EU law.
 
 <p align="center">
-<img src="./Img/May you summarize the EU AI Act.png" alt="drawing" align="center" width="900"/>
+<img src="./Img/May you summarize the EU AI Act.png" alt="drawing" align="center" width="450"/>
 </p>
 
 <p align="center">
-<img src="./Img/Why do we need to regulate the use of AI.png" alt="drawing" align="center" width="900"/>
+<img src="./Img/Why do we need to regulate the use of AI.png" alt="drawing" align="center" width="450"/>
 </p>
 
 <p align="center">
-<img src="./Img/What are the AI risk categories in EU law.png" alt="drawing" align="center" width="900"/>
+<img src="./Img/What are the AI risk categories in EU law.png" alt="drawing" align="center" width="450"/>
 </p>
 
 Each question is matched with a comprehensive, contextually relevant answer, illustrating the effectiveness of our methodology in addressing complex AI-related inquiries.
