@@ -41,17 +41,14 @@ The figure below shows the components of our ChatGPT-like solution powered with 
 Three examples demonstrate our approach:
 
 * Summarizing the EU AI Act.
-* Explaining the need for AI regulation.
-* Detailing AI risk categories in EU law.
-
 <p align="center">
 <img src="./Img/May you summarize the EU AI Act.png" alt="drawing" align="center" width="450"/>
 </p>
-
+* Explaining the need for AI regulation.
 <p align="center">
 <img src="./Img/Why do we need to regulate the use of AI.png" alt="drawing" align="center" width="450"/>
 </p>
-
+* Detailing AI risk categories in EU law.
 <p align="center">
 <img src="./Img/What are the AI risk categories in EU law.png" alt="drawing" align="center" width="450"/>
 </p>
