@@ -16,7 +16,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 
-PDF_LOADER_PATH = './../../Docs/'
+PDF_LOADER_PATH = './../Docs/'
 EMBEDINGS_MODEL_NAME="text-embedding-ada-002"
 VECTORIALDB_NAME="db.faiss"
 
