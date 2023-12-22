@@ -33,6 +33,29 @@ We use the following three components:
 * A **"response service"**: This service will take the output of the data service and generate from it an answer to the user’s question. We again use the "text-davinci-003" OpenAI model to generate the answer.
 
 # Screen shots
+We provide three examples to the questions provided:
+
+Q: May you summarize the EU AI Act?
+A: 
+
+<p align="center">
+<img src="./Img/May you summarize the EU AI Act.png" alt="drawing" align="center" width="900"/>
+</p>
+
+Q: Why do we need to regulate the use of AI?
+A: 
+
+<p align="center">
+<img src="./Img/Why do we need to regulate the use of AI.png" alt="drawing" align="center" width="900"/>
+</p>
+
+Q: What are the AI risk categories in EU law?
+A: 
+
+<p align="center">
+<img src="./Img/What are the AI risk categories in EU law.png" alt="drawing" align="center" width="900"/>
+</p>
+
 
 
 
