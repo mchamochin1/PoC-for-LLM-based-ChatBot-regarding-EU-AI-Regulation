@@ -35,6 +35,8 @@ We use the following three components:
 <p align="center">
 <img src="./Img/Components.png" alt="drawing" align="center" width="400"/>
 </p>
+<p style="text-align: center;">Figure: Components of our ChatGPT-like solution powered with our own EU Law data</p>
+
 
 # Screenshots
 Three examples demonstrate our approach:
